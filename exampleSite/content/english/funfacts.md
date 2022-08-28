@@ -1,26 +1,26 @@
 ---
-title: ""
+title: "See This"
 bg_image: "images/backgrounds/funfact-bg.jpg"
 funfacts:
 # funfacts item loop
-- name : "HANDS TO WORK"
+- name : "SUKA DEPAN LAPTOP"
   image : "images/icons/works.png"
   count : "100"
   
 # funfacts item loop
-- name : "HAPPY CLIENT"
+- name : "HAPPY MOOD"
   image : "images/icons/happy.png"
-  count : "200"
+  count : "50"
   
 # funfacts item loop
-- name : "FINISHED PROJECT"
+- name : "SUKA NUGAS"
   image : "images/icons/project.png"
-  count : "250"
+  count : "70"
   
 # funfacts item loop
-- name : "CUPS OF COFFEE"
+- name : "MINUM KOPI"
   image : "images/icons/coffee.png"
-  count : "150"
+  count : "90"
 
 
 # custom style
@@ -28,3 +28,8 @@ custom_class: ""
 custom_attributes: "" 
 custom_css: ""
 ---
+
+
+
+
+

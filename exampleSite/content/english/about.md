@@ -1,9 +1,9 @@
 ---
-title : "KNOW MORE <br> ABOUT ME"
-image : "images/backgrounds/portrait.jpg"
+title : "Read About Me"
+image : "images/backgrounds/Hizkia.jpg"
 # button
 button:
-  enable : true
+  enable : false
   label : "DOWNLOAD MY CV"
   link : "#"
 
@@ -13,22 +13,34 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
-      company : "Fiverr.com"
-      duration : "2016-2018"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
+    - name : "Turu:-)"
+      company : "Kaum Rebahan"
+      duration : "itu Enak"
+      content : "Turu Itu Perlu karena kalo gak turu dah mati."
       
     # experience item loop
-    - name : "Graphic Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
+    - name : "Makan"
+      company : "Makan Harus Mati Jangan"
+      duration : "WKwkwk"
+      content : "Makan Makanan Salah Satu yang paling Hal Utama Yang Membuat Kita Hidup Selain Oksigen Yakan??."
       
     # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
-      duration : "2014-2018"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+    - name : "Egois"
+      company : "Egois Bisa "
+      duration : "Punya Hati Nurani harus"
+      content : "Ambil Setiap Sikap Buruk Itu Jika Perlu Dan Gunakan Di Saat Yang Tepat ."
+    
+    # experience item loop
+    - name : "Bermain"
+      company : "Bermain Harus!. "
+      duration : "Kapan Healing??"
+      content : "Bermainlah Pada Saat Yang Tepat Dan Jangan Lupa Belajar !!." 
+
+      # experience item loop
+    - name : "Design"
+      company : "Do Your Passion. "
+      duration : ""
+      content : "Design Itu Seperti Merokok, Buat Ketagihan!!!." 
 
 ############################### Skill #################################
 skill:
@@ -36,20 +48,25 @@ skill:
   title : "SKILL"
   skill_list:
     # skill item loop
-    - name : "Web Development"
+    - name : "Turu:-)"
       percentage : "98%"
       
     # skill item loop
-    - name : "Graphic Design"
+    - name : "Makan"
       percentage : "85%"
       
     # skill item loop
-    - name : "Database Management"
+    - name : "Egois"
       percentage : "90%"
       
     # skill item loop
-    - name : "Wordpress"
+    - name : "Bermain"
       percentage : "70%"
+    
+    # skill item loop
+    - name : "Design"
+      percentage : "75%"
+
 
 
 # custom style
@@ -58,4 +75,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+It's Hizkia,IT STUDENT. I love to Design In Every App, it's my passion. <br>LIFE IS TRASH THEN MAKE IT WORTH:( <br>Saya Itu Anak IT Yang Noob Masih. <br>TERIMAKASIH TELAH MENGUNJUNGI WEBSITE SAYA :) 

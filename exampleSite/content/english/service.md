@@ -2,29 +2,17 @@
 title : "SERVICES"
 service_list:
 # service item loop
-- name : "Web Development"
+- name : "Installation"
   image : "images/icons/web-development.png"
   
 # service item loop
-- name : "Graphic Design"
+- name : "Graphic/Powerpoint Design"
   image : "images/icons/graphic-design.png"
   
 # service item loop
-- name : "Database Management"
+- name : "Nonton Anime"
   image : "images/icons/dbms.png"
   
-# service item loop
-- name : "Software Development"
-  image : "images/icons/software-development.png"
-  
-# service item loop
-- name : "Digital Marketing"
-  image : "images/icons/marketing.png"
-  
-# service item loop
-- name : "Mobile App Development"
-  image : "images/icons/mobile-app.png"
-
 
 
 # custom style

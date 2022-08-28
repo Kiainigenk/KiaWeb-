@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com"
-title = "Somrat | Hugo Portfolio Template"
+title = "HizkiaWebsite"
 theme = "somrat"
 # post pagination
 paginate = "6"
@@ -78,23 +78,23 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 ############################# social site ########################
 [[params.social]]
 icon = "fab fa-facebook-f"
-link = "https://www.facebook.com/somratpro"
+link = "https://www.facebook.com/hizkia.panggabean.1/"
 
 [[params.social]]
 icon = "fab fa-twitter"
-link = "https://twitter.com/somratpro"
+link = "https://twitter.com/Kia_ini_genk"
 
 [[params.social]]
 icon = "fab fa-instagram"
-link = "https://www.instagram.com/somratpro"
+link = "https://www.instagram.com/kiainigenk1661/"
 
 [[params.social]]
 icon = "fab fa-github"
-link = "https://github.com/somratpro"
+link = "https://github.com/Kiainigenk"
 
 [[params.social]]
 icon = "fab fa-linkedin"
-link = "https://www.linkedin.com/in/somratpro"
+link = "https://t.me/KiaGabe"
 
 
 ################################### English language #####################################
@@ -139,17 +139,6 @@ name = "Testimonial"
 pre = "#"
 url = "testimonial"
 weight = 5
-
-[[Languages.en.menu.main]]
-name = "Contact"
-pre = "#"
-url = "contact"
-weight = 6
-
-[[Languages.en.menu.main]]
-name = "Blog"
-url = "blog"
-weight = 7
 
 
 ################################### French language #####################################

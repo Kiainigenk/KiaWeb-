@@ -2,22 +2,21 @@
 title : "TESTIMONIALS"
 testimonial_slider:
 # slider item loop
-- name : "Micheal Clark"
-  image : "images/clients/client1.jpg"
-  designation : "CEO, RANDOM COMPANY"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad, omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+- name : "Albert Einstein"
+  image : "images/clients/Albert Einstein neelcrew.jpg"
+  designation : "Scientist"
+  content : "Pengetahuan terbatas, Sedangkan Imajinasi Seluas Langit Dan Bumi."
             
 # slider item loop
-- name : "Peter Parker"
-  image : "images/clients/client2.jpg"
-  designation : "CEO, RANDOM COMPANY"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad, omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+- name : "Hizkia Panggabean"
+  image : "images/clients/Hizkia.jpg"
+  designation : "STUDENT"
+  content : "HIDUP ITU SAMPAH MAKA BUATLAH BERHARGA."
             
 # slider item loop
-- name : "Jessica Jones"
-  image : "images/clients/client3.jpg"
-  designation : "CEO, RANDOM COMPANY"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad, omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+- name : "Steve Jobs"
+  image : "images/clients/Steve Jobs.jpeg"
+  designation : "Milikilah keberanian untuk mengikuti kata hati dan intuisi. Entah bagaimana mereka tahu apa yang kamu benar-benar kamu inginkan."
 
 # custom style
 custom_class: "" 

@@ -1,25 +1,25 @@
 ---
-title : "I'm Somrat Sorkar"
+title : "Saya Hizkia Panggabean"
 # full screen navigation
-first_name : "MacGyver"
-last_name : "SOMRAT"
-bg_image : "images/backgrounds/full-nav-bg.jpg"
+first_name : "Hizkia "
+last_name : "Panggabean"
+bg_image : "images/backgrounds/XI TKJ.jpg"
 # animated text loop
 occupations:
-- "Web Developer"
-- "Graphic Designer"
-- "Database Manager"
+- "XI TKJ"
+- "Love Design"
+- "IT STUDENT"
 
 # slider background image loop
 slider_images:
-- "images/slider/slider-1.jpg"
-- "images/slider/slider-2.jpg"
-- "images/slider/slider-3.jpg"
+- "images/slider/XI TKJ.jpg"
+- "images/slider/BAJU HITAM.jpeg"
+- "images/slider/Me and you.jpeg"
 
 # button
 button:
-  enable : true
-  label : "HIRE ME"
+  enable : true 
+  label : "Hi!"
   link : "#contact"
 
 
@@ -29,3 +29,4 @@ custom_attributes: ""
 custom_css: ""
 
 ---
+
