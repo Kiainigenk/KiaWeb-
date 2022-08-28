@@ -14,7 +14,7 @@ occupations:
 slider_images:
 - "images/slider/XI TKJ.jpg"
 - "images/slider/BAJU HITAM.jpeg"
-- "images/slider/Me and you.jpeg"
+- "images/slider/tarutung .jpeg"
 
 # button
 button:
