@@ -33,7 +33,7 @@ experience:
     # experience item loop
     - name : "Bermain"
       company : "Bermain Harus!. "
-      duration : "Kapan Healing??"
+      duration : "Kapan Healing:)??"
       content : "Bermainlah Pada Saat Yang Tepat Dan Jangan Lupa Belajar !!." 
 
       # experience item loop
